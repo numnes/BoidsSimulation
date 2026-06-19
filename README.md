@@ -1,4 +1,4 @@
 # Boids Simulation
 
 ## Exemplo
-https://matheusnunesismael.github.io/BoidsSimulation/
+https://numnes.github.io/BoidsSimulation/
